@@ -1,7 +1,7 @@
 BezierAnimation.pde
 ====
 
-![img01.png](img01.png) ![img02.png](img02.png) ![img02.png](img02.png)
+![img01.gif](img01.gif) ![img02.gif](img02.gif) ![img03.gif](img03.gif)
 
 Copyright and license
 ----
